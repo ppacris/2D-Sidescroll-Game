@@ -1,0 +1,16 @@
+D:\Download\2d game\Pacris\Shooting Zombie Survival\Shooting Zombie Survival\bin\Debug\Shooting Zombie Survival.exe.config
+D:\Download\2d game\Pacris\Shooting Zombie Survival\Shooting Zombie Survival\bin\Debug\Shooting Zombie Survival.exe
+D:\Download\2d game\Pacris\Shooting Zombie Survival\Shooting Zombie Survival\bin\Debug\Shooting Zombie Survival.pdb
+D:\Download\2d game\Pacris\Shooting Zombie Survival\Shooting Zombie Survival\bin\Debug\Shooting Zombie Survival.xml
+D:\Download\2d game\Pacris\Shooting Zombie Survival\Shooting Zombie Survival\obj\Debug\Shooting_Zombie_Survival.Splash.resources
+D:\Download\2d game\Pacris\Shooting Zombie Survival\Shooting Zombie Survival\obj\Debug\Shooting_Zombie_Survival.Resources.resources
+D:\Download\2d game\Pacris\Shooting Zombie Survival\Shooting Zombie Survival\obj\Debug\Shooting Zombie Survival.vbproj.GenerateResource.cache
+D:\Download\2d game\Pacris\Shooting Zombie Survival\Shooting Zombie Survival\obj\Debug\Shooting Zombie Survival.vbproj.CoreCompileInputs.cache
+D:\Download\2d game\Pacris\Shooting Zombie Survival\Shooting Zombie Survival\obj\Debug\Shooting Zombie Survival.exe
+D:\Download\2d game\Pacris\Shooting Zombie Survival\Shooting Zombie Survival\obj\Debug\Shooting Zombie Survival.xml
+D:\Download\2d game\Pacris\Shooting Zombie Survival\Shooting Zombie Survival\obj\Debug\Shooting Zombie Survival.pdb
+D:\Download\2d game\Pacris\Shooting Zombie Survival\Shooting Zombie Survival\obj\Debug\Shooting_Zombie_Survival.Stage1.resources
+D:\Download\2d game\Pacris\Shooting Zombie Survival\Shooting Zombie Survival\obj\Debug\Shooting Zombie Survival.vbprojAssemblyReference.cache
+D:\Download\2d game\Pacris\Shooting Zombie Survival\Shooting Zombie Survival\obj\Debug\Interop.WMPLib.dll
+D:\Download\2d game\Pacris\Shooting Zombie Survival\Shooting Zombie Survival\obj\Debug\Shooting Zombie Survival.vbproj.ResolveComReference.cache
+D:\Download\2d game\Pacris\Shooting Zombie Survival\Shooting Zombie Survival\obj\Debug\Shooting_Zombie_Survival.Stage2.resources
